@@ -1,0 +1,5 @@
+# Phase 1 (cleaning) needs only the Python standard library.
+# These are for upcoming phases:
+datasets
+huggingface_hub
+pandas
